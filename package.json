@@ -1,0 +1,25 @@
+{
+  "name": "Graphics Demos",
+  "description": "Demos for Graphics",
+  "author": "Ben Doherty",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.8.14",
+    "npm": "~1.1"
+  },
+  "scripts": {
+    "start": "brunch watch --server",
+    "build": "brunch build",
+    "build-optimize": "brunch build --production",
+    "watch": "brunch watch"
+  },
+  "dependencies": {
+    "brunch": "2.10.0",
+    "pug": "^2.0.0-beta11",
+    "pugjs-brunch": "^2.10.0"
+  }
+}
