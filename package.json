@@ -1,7 +1,7 @@
 {
-  "name": "Graphics Demos",
-  "description": "Demos for Graphics",
-  "author": "Ben Doherty",
+  "name": "brunch-pug-app",
+  "description": "An application with Pug templates built with Brunch",
+  "author": "",
   "version": "0.0.1",
   "repository": {
     "type": "git",
